@@ -18,13 +18,20 @@ To-Do-ListSistem-Grup21/
 
 ├── .idea/                    
 ├── out/production/To-Do-ListSistem-Grup21/   
-├── src/                     
+├── src/
+
 │   ├── App/
+
 │   ├── CommonConstants/
+
 │   ├── TaskComponent/
+
 │   └── ToDoListGui/
-├── resources/                 
+
+├── resources/    
+
 │   ├── LEMONMILK-Light.otf    
+
 │   └── ela.txt              
 ├── .gitignore               
 ├── README.md                  
