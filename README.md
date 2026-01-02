@@ -3,13 +3,19 @@ Bu proje Java dilinde geliştirilmiş bir "görev" takip uygulamasıdır. kullan
 
 📌 ÖZELLİKLER 
 -Görev ekleme , silme ve düzenleme 
+
 -Tamamlanan görevleri işaretleme
+
 -Basit ve kullanıcı dostu arayüz
+
 -Görevler arasında filtreleme 
+
 -font ve tema desteği
 
 🧩PROJE YAPISI
+
 To-Do-ListSistem-Grup21/
+
 ├── .idea/                    
 ├── out/production/To-Do-ListSistem-Grup21/   
 ├── src/                     
