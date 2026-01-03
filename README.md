@@ -2,6 +2,7 @@
 Bu proje Java dilinde geliştirilmiş bir "görev" takip uygulamasıdır. kullanıcılar görev ekleyebilir , silebilir , güncelleyebilir ve tamamlanan görevleri işaretleyebilir.
 
 📌 ÖZELLİKLER 
+
 -Görev ekleme , silme ve düzenleme 
 
 -Tamamlanan görevleri işaretleme
@@ -42,6 +43,6 @@ To-Do-ListSistem-Grup21/
 
 *ELA NAMMOURAH (ela0811)
 
-*SARAH SHOGARY (sara123-2)
+*SARA SHOGRY (sara123-2)
 
 *RAGHAD ABDULJAWAD (raghadabduljawad)
